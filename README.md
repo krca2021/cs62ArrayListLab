@@ -1,5 +1,7 @@
 # Timing ArrayList Additions
 
+# AUTHOR'S NOTE: collaborated w/ two partners
+
 We encourage you to work in pairs on this lab as it is useful to learn from others and two pairs of eyes on a program are more likely to find errors.  Having someone to discuss the results of your program will also make it more likely that you'll get a deeper understanding of the results.  Don't forget to acknowledge your partner in the json file.
 
 For this lab, we'll be exploring the different variations of the `ArrayList` class.  In particular, we'll examine how resizing the list when the array fills up affects the overall run-time and how this relates to our theoretical calculations.
